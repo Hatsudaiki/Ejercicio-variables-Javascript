@@ -1,0 +1,14 @@
+{
+  "name": "clase-1",
+  "version": "1.0.0",
+  "description": "Clase con kevin",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js"
+    
+  },
+  "keywords": [],
+  "author": "David",
+  "license": "ISC"
+}
