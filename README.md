@@ -7,7 +7,7 @@
         10/10 Nice, me sorprendio
         <br>
         <br>
-        <img src="Idol.gif" alt="Ai Otho">
+        <img src="https://github.com/Corro-Kun/Corro-Kun/blob/main/Idol.gif" alt="Ai Otho">
         <br>
         <br>
         ~ Corro-Kun ~
